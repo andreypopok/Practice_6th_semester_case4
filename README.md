@@ -1,12 +1,12 @@
 "# Practice_6th_semester_case4" 
-# Кейс-задача № 4
+# РљРµР№СЃ-Р·Р°РґР°С‡Р° в„– 4
 
-Реализация юнит-тестов на GoogleTest для классов Queue, Heap, BinaryTree.
+Р РµР°Р»РёР·Р°С†РёСЏ СЋРЅРёС‚-С‚РµСЃС‚РѕРІ РЅР° GoogleTest РґР»СЏ РєР»Р°СЃСЃРѕРІ Queue, Heap, BinaryTree.
 
-## Сборка и запуск тестов
+## РЎР±РѕСЂРєР° Рё Р·Р°РїСѓСЃРє С‚РµСЃС‚РѕРІ
 git clone https://github.com/andreypopok/Practice_6th_semester_case4.git
 cd Practice_6th_semester_case4
 
-## Протестировано на последней версии Visual Studio 2026
+## РџСЂРѕС‚РµСЃС‚РёСЂРѕРІР°РЅРѕ РЅР° РїРѕСЃР»РµРґРЅРµР№ РІРµСЂСЃРёРё Visual Studio 2026
 cmake -S . -B build -G "Visual Studio 18 2026" -A x64
 cmake --build build --config Release
